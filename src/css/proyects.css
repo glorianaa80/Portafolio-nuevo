@@ -1,0 +1,59 @@
+.proyect__img {
+  position: relative;
+  top: 15px;
+  left: 15px;
+}
+
+.proyects__title {
+  background: transparent url('/img/PROYECTS.png') no-repeat;
+  border: 0;
+  color: transparent;
+  display: inline-block;
+  height: 170px;
+  margin: 5% 4%;
+  overflow: hidden;
+  position: relative;
+  left: 260px;
+  text-indent: 100%;
+  text-shadow: none;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.proyect__title {
+  color: #D4905D;
+  font: 800 1.2rem 'Libre Franklin', sans-serif;
+  text-transform: uppercase;
+}
+
+.wapper__img--color {
+  background-color: #D4905D;
+  display: inline-block;
+}
+
+.wapper__img {
+  background-color: #EDDCD2;
+  display: inline-block;
+}
+
+.wapper__proyect {
+  display: inline-block;
+  position: relative;
+  right: 8%;
+  vertical-align: top;
+}
+
+.wapper__proyect-pstn {
+  position: relative;
+  right: -8%;
+}
+
+.wapper__proyect--pstn {
+  padding: 20% 0;
+  position: relative;
+  right: -34%;
+}
+
+.wapper__proyects {
+  background: #F8F8F8 url('/img/deco3.png') no-repeat 17px 140px;
+}

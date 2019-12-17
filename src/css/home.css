@@ -1,0 +1,31 @@
+.corazon {
+  width: 100%;
+}
+
+.home__link {
+  background-color: #D4905D;
+  color: #fff;
+  display: block;
+  font: 800 1rem 'Libre Franklin', sans-serif;
+  margin: 5% 0 5% 15%;
+  padding: 8% 0;
+  text-decoration: none;
+  width: 70%;
+}
+
+.home__title {
+  font: 800 1.2rem 'Libre Franklin', sans-serif;
+}
+
+.home__subtittle {
+  font: 800 1rem 'Libre Franklin', sans-serif;
+}
+
+.logo {
+  padding-top: 10%;
+  width: 30%;
+}
+
+.wapper__home {
+  text-align: center;
+}

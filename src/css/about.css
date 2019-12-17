@@ -1,0 +1,57 @@
+.aboutme__img {
+  bottom: 45px;
+  padding-left: 25%;
+  position: relative;
+  width: 50%;
+}
+
+.aboutme__title {
+  background: #D4905D url('/img/deco1.png') no-repeat 0 20px ;
+  color: #fff;
+  padding: 15% 0;
+  text-align: center;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+.info__sub {
+  color: #0E5B53;
+  font: 800 2rem 'Libre Franklin', sans-serif;
+  margin: 0;
+  padding-left: 4%;
+}
+
+.info__text {
+  margin: 0;
+  padding: 7% 7% 0 10%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.skills_sub {
+  background: transparent url('/img/skills.png') no-repeat;
+  border: 0;
+  color: transparent;
+  display: inline-block;
+  height: 111px;
+  margin: 5% 4%;
+  overflow: hidden;
+  text-indent: 100%;
+  text-shadow: none;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.skills__text {
+  display: inline-block;
+  vertical-align: top;
+  width: 80%;
+}
+
+.wapper__about {
+  height: 100%;
+  width: 100%;
+}
+
+.wapper__skills {
+  margin-top: 20%;
+}

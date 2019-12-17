@@ -1,0 +1,33 @@
+.toolbar {
+  border-bottom: 5px solid #EDDCD2;
+  width: 100%;
+}
+
+.toolbar__logo {
+  width: 30%;
+}
+
+.toolbar__nav {
+  text-align: center;
+}
+
+.toolbar__nav-items ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toolbar__nav-items a {
+  color: #000;
+  text-decoration: none;
+}
+
+.toolbar__nav-items li {
+  display: inline-block;
+  padding: 5%;
+}
+
+.toolbar__nav-items a:hover,
+.toolbar__nav-items a:active {
+  color: #EDDCD2;
+}
